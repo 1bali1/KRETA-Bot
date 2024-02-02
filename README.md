@@ -25,3 +25,4 @@
 
 
 Bővebb információkért és az aktuális Felhasználási Feltételekért kérjük, látogass el a [bot weboldalára](https://github.com/1bali/KRETA-Bot).
+KRÉTA API: [Katt Ide](https://github.com/bczsalba/ekreta-docs-v3)
