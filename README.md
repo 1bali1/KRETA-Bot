@@ -1,2 +1,2 @@
-# KR-TA-Bot
+# KRÉTA-Bot
 Egy alap, egyszerű KRÉTA Discord bot.
